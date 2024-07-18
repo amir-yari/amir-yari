@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **amir-yari/amir-yari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Amir Yari. I'm a Front-End Web Developer based in Vancouver, BC, Canada. I have an Associate of Science degree in Computer Science from Langara. I’m interested in web development and web related technologies.
+<br/>📫 You can reach me via email: amirreza.yari@gmail.com
