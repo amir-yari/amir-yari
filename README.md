@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Amir Yari. I'm a Front-End Web Developer based in Vancouver, BC, Canada. I have an Associate of Science degree in Computer Science from Langara. I’m interested in web development and web related technologies.
+👋 Hi, I’m Amir Yari. I'm a Full-Stack Web and Mobile App Developer based in Vancouver, BC, Canada. I have an Associate of Science degree in Computer Science from Langara, and I’m interested in web and mobile app development and related technologies.
 <br/>📫 You can reach me via email: amirreza.yari@gmail.com
